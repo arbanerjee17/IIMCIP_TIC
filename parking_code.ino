@@ -1,12 +1,12 @@
-#define BLYNK_TEMPLATE_ID "TMPL3zG404Gif"
+#define BLYNK_TEMPLATE_ID "your_template_id"
 #define BLYNK_TEMPLATE_NAME "Smart Parking"
-#define BLYNK_AUTH_TOKEN "wIYCRD_tbihCdpDaF-3WN5mFE8iAmcHn"
+#define BLYNK_AUTH_TOKEN "your_auth_token"
 
 #include <WiFi.h>
 #include <BlynkSimpleEsp32.h>
 
-char ssid[] = "realme 8";
-char pass[] = "qwerrewq";
+char ssid[] = "your_wifi_name";
+char pass[] = "your_wifi_password";
 
 #define TRIG1 2
 #define ECHO1 3
